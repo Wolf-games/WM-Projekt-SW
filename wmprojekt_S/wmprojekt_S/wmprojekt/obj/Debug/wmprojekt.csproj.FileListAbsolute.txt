@@ -1,0 +1,17 @@
+C:\Users\e.eskin\Desktop\wmprojekt\wmprojekt\wmprojekt\obj\Debug\wmprojekt.csproj.AssemblyReference.cache
+C:\Users\e.eskin\Desktop\wmprojekt\wmprojekt\wmprojekt\obj\Debug\wmprojekt.Form1.resources
+C:\Users\e.eskin\Desktop\wmprojekt\wmprojekt\wmprojekt\obj\Debug\wmprojekt.Properties.Resources.resources
+C:\Users\e.eskin\Desktop\wmprojekt\wmprojekt\wmprojekt\obj\Debug\wmprojekt.csproj.GenerateResource.cache
+C:\Users\e.eskin\Desktop\wmprojekt\wmprojekt\wmprojekt\obj\Debug\wmprojekt.csproj.CoreCompileInputs.cache
+C:\Users\e.eskin\Desktop\wmprojekt\wmprojekt\wmprojekt\bin\Debug\wmprojekt.exe.config
+C:\Users\e.eskin\Desktop\wmprojekt\wmprojekt\wmprojekt\bin\Debug\wmprojekt.exe
+C:\Users\e.eskin\Desktop\wmprojekt\wmprojekt\wmprojekt\bin\Debug\wmprojekt.pdb
+C:\Users\e.eskin\Desktop\wmprojekt\wmprojekt\wmprojekt\obj\Debug\wmprojekt.exe
+C:\Users\e.eskin\Desktop\wmprojekt\wmprojekt\wmprojekt\obj\Debug\wmprojekt.pdb
+C:\Users\e.eskin\Downloads\wmprojekt_S\wmprojekt\obj\Debug\wmprojekt.csproj.AssemblyReference.cache
+C:\Users\e.eskin\Downloads\wmprojekt_S\wmprojekt\obj\Debug\wmprojekt.Form1.resources
+C:\Users\e.eskin\Downloads\wmprojekt_S\wmprojekt\obj\Debug\wmprojekt.Properties.Resources.resources
+C:\Users\e.eskin\Downloads\wmprojekt_S\wmprojekt\obj\Debug\wmprojekt.csproj.GenerateResource.cache
+C:\Users\e.eskin\Downloads\wmprojekt_S\wmprojekt\obj\Debug\wmprojekt.csproj.CoreCompileInputs.cache
+C:\Users\e.eskin\Downloads\wmprojekt_S\wmprojekt\obj\Debug\wmprojekt.exe
+C:\Users\e.eskin\Downloads\wmprojekt_S\wmprojekt\obj\Debug\wmprojekt.pdb
