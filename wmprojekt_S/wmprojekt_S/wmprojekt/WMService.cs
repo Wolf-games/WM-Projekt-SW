@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Windows.Forms;
 
 namespace wmprojekt
 {
@@ -84,6 +85,16 @@ namespace wmprojekt
             }
             return kopie;
         }
+
+
+
+        public Mannschaft GetBesteMannschaft(List<Mannschaft> tabelle)
+        {
+            tabelle = GetTabelle();
+
+            return tabelle[0];
+        }
+
 
         public List<Ergebnis> GetErgebnisse()
         {

@@ -1,40 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\",
+  "WorkspaceRootPath": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\wmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|solutionrelative:wmprojekt\\wmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ergebnisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|solutionrelative:wmprojekt\\ergebnisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ergebnis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|solutionrelative:wmprojekt\\ergebnis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|c:\\users\\schueler\\documents\\sw\\wm\\wmprojekt_s\\wmprojekt_s\\wmprojekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|solutionrelative:wmprojekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|wmprojekt||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|c:\\users\\schueler\\documents\\sw\\onedrive_1_16.6.2026\\wmprojekt_s\\wmprojekt_s\\wmprojekt\\wmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|solutionrelative:wmprojekt\\wmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ergebnisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|solutionrelative:wmprojekt\\ergebnisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ergebnis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|solutionrelative:wmprojekt\\ergebnis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\mannschaft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\mannschaft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|solutionrelative:wmprojekt\\mannschaft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|solutionrelative:wmprojekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|solutionrelative:wmprojekt\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7D25BD4-587D-4435-90F5-6F8E069FA022}|wmprojekt\\wmprojekt.csproj|c:\\users\\schueler\\documents\\sw\\onedrive_1_16.6.2026\\wmprojekt_s\\wmprojekt_s\\wmprojekt\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,42 +41,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "wmprojekt",
-              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\wmprojekt.csproj",
+              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\wmprojekt.csproj",
               "RelativeDocumentMoniker": "wmprojekt\\wmprojekt.csproj",
-              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\wmprojekt.csproj",
+              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\wmprojekt.csproj",
               "RelativeToolTip": "wmprojekt\\wmprojekt.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-12T10:29:14.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T10:29:14.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Form1.cs",
               "RelativeDocumentMoniker": "wmprojekt\\Form1.cs",
-              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Form1.cs",
+              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Form1.cs",
               "RelativeToolTip": "wmprojekt\\Form1.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T05:59:33.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "WMService.cs",
-              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\WMService.cs",
+              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\WMService.cs",
               "RelativeDocumentMoniker": "wmprojekt\\WMService.cs",
-              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\WMService.cs",
+              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\WMService.cs",
               "RelativeToolTip": "wmprojekt\\WMService.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwE4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwF4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T05:59:34.069Z",
               "EditorCaption": ""
@@ -88,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "wmprojekt\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ClassDiagram1.cd",
               "RelativeToolTip": "wmprojekt\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
               "WhenOpened": "2026-06-16T05:59:34.178Z"
@@ -99,9 +95,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Mannschaft.cs",
-              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Mannschaft.cs",
+              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Mannschaft.cs",
               "RelativeDocumentMoniker": "wmprojekt\\Mannschaft.cs",
-              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Mannschaft.cs",
+              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Mannschaft.cs",
               "RelativeToolTip": "wmprojekt\\Mannschaft.cs",
               "ViewState": "AQIAABkAAAAAAAAAAADwvx4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,11 +105,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Ergebnis.cs",
-              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Ergebnis.cs",
+              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Ergebnis.cs",
               "RelativeDocumentMoniker": "wmprojekt\\Ergebnis.cs",
-              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Ergebnis.cs",
+              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Ergebnis.cs",
               "RelativeToolTip": "wmprojekt\\Ergebnis.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,11 +118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ErgebnisRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ErgebnisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ErgebnisRepository.cs",
               "RelativeDocumentMoniker": "wmprojekt\\ErgebnisRepository.cs",
-              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ErgebnisRepository.cs",
+              "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\ErgebnisRepository.cs",
               "RelativeToolTip": "wmprojekt\\ErgebnisRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,13 +133,12 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Schueler\\Documents\\SW\\WM\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Form1.cs",
               "RelativeDocumentMoniker": "wmprojekt\\Form1.cs",
               "ToolTip": "C:\\Users\\Schueler\\Documents\\SW\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Form1.cs [Design]",
-              "RelativeToolTip": "wmprojekt\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive_1_16.6.2026\\wmprojekt_S\\wmprojekt_S\\wmprojekt\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T05:59:34.181Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-16T05:59:34.181Z"
             }
           ]
         }
